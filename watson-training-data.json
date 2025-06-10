@@ -1,0 +1,319 @@
+{
+  "intents": [
+    {
+      "intent": "crop_recommendations",
+      "examples": [
+        {"text": "What crop should I grow in clay soil?"},
+        {"text": "Which crops are suitable for UP?"},
+        {"text": "Best crops for sandy soil"},
+        {"text": "What can I plant in loamy soil?"},
+        {"text": "Recommend crops for my farm in Lucknow"},
+        {"text": "What should I grow this season?"},
+        {"text": "Which crop gives best yield in my area?"},
+        {"text": "Suggest crops for irrigated land"},
+        {"text": "What to grow after rice harvest?"},
+        {"text": "Which vegetables grow well in UP?"},
+        {"text": "Crops suitable for summer season in Kanpur"},
+        {"text": "What are good cash crops for small farmers?"},
+        {"text": "Which crop uses less water?"},
+        {"text": "मिट्टी वाली मिट्टी में कौन सी फसल अच्छी होगी?"},
+        {"text": "मेरे खेत के लिए फसल सुझाव"}
+      ]
+    },
+    {
+      "intent": "disease_identification",
+      "examples": [
+        {"text": "My sugarcane has red spots on leaves"},
+        {"text": "Sugarcane plants are wilting"},
+        {"text": "Black whip-like structures on my crop"},
+        {"text": "Yellow leaves on sugarcane"},
+        {"text": "White patches on sugarcane leaves"},
+        {"text": "Plants are drying up suddenly"},
+        {"text": "Fungus on my crop"},
+        {"text": "Insects eating my sugarcane"},
+        {"text": "How to identify red rot disease?"},
+        {"text": "Symptoms of smut in sugarcane"},
+        {"text": "मेरे गन्ने के पौधों पर लाल धब्बे हैं"},
+        {"text": "पत्तियां पीली हो रही हैं"},
+        {"text": "फसल पर काले चाबुक जैसी संरचनाएं"},
+        {"text": "गन्ने में रोग की पहचान कैसे करें?"}
+      ]
+    },
+    {
+      "intent": "irrigation_advice",
+      "examples": [
+        {"text": "How often to water sugarcane?"},
+        {"text": "Best irrigation method for sugarcane"},
+        {"text": "Water requirements for crops in summer"},
+        {"text": "When to irrigate my field?"},
+        {"text": "Drip irrigation for sugarcane"},
+        {"text": "Water management in monsoon"},
+        {"text": "How much water does sugarcane need?"},
+        {"text": "Irrigation schedule for UP farmers"},
+        {"text": "Water conservation techniques"},
+        {"text": "Signs of over-irrigation"},
+        {"text": "गन्ने को कितनी बार पानी देना चाहिए?"},
+        {"text": "सिंचाई का सबसे अच्छा तरीका क्या है?"},
+        {"text": "पानी बचाने के तरीके"},
+        {"text": "कब सिंचाई करनी चाहिए?"}
+      ]
+    },
+    {
+      "intent": "fertilizer_info",
+      "examples": [
+        {"text": "Which fertilizer is best for sugarcane?"},
+        {"text": "When to apply fertilizers?"},
+        {"text": "NPK ratio for sugarcane"},
+        {"text": "Organic fertilizers for crops"},
+        {"text": "How much urea to use?"},
+        {"text": "Micronutrient deficiency in plants"},
+        {"text": "Best time to apply potassium"},
+        {"text": "Fertilizer application methods"},
+        {"text": "Natural alternatives to chemical fertilizers"},
+        {"text": "How to make compost for farming?"},
+        {"text": "गन्ने के लिए कौन सा उर्वरक सबसे अच्छा है?"},
+        {"text": "उर्वरक कब डालना चाहिए?"},
+        {"text": "जैविक खाद के फायदे"},
+        {"text": "यूरिया की मात्रा कितनी होनी चाहिए?"}
+      ]
+    },
+    {
+      "intent": "yield_prediction",
+      "examples": [
+        {"text": "How much yield can I expect from sugarcane?"},
+        {"text": "Average sugarcane production in UP"},
+        {"text": "Factors affecting crop yield"},
+        {"text": "How to increase sugarcane production?"},
+        {"text": "Expected quintals per acre"},
+        {"text": "Yield prediction for my farm"},
+        {"text": "What affects sugarcane yield?"},
+        {"text": "Average tonnage per hectare"},
+        {"text": "How soil affects production?"},
+        {"text": "Maximum yield possible for sugarcane"},
+        {"text": "गन्ने से कितनी उपज मिल सकती है?"},
+        {"text": "उत्पादन कैसे बढ़ाएं?"},
+        {"text": "प्रति एकड़ औसत उपज"},
+        {"text": "फसल उत्पादन को क्या प्रभावित करता है?"}
+      ]
+    },
+    {
+      "intent": "best_practices",
+      "examples": [
+        {"text": "Best farming practices for sugarcane"},
+        {"text": "How to improve soil health?"},
+        {"text": "Sustainable farming methods"},
+        {"text": "Crop rotation benefits"},
+        {"text": "Integrated pest management"},
+        {"text": "Modern farming techniques"},
+        {"text": "How to reduce farming costs?"},
+        {"text": "Efficient harvesting methods"},
+        {"text": "Precision agriculture for sugarcane"},
+        {"text": "Conservation agriculture practices"},
+        {"text": "गन्ना खेती के लिए सर्वोत्तम प्रथाएँ"},
+        {"text": "मिट्टी का स्वास्थ्य कैसे सुधारें?"},
+        {"text": "फसल चक्र के लाभ"},
+        {"text": "खेती की लागत कैसे कम करें?"}
+      ]
+    },
+    {
+      "intent": "government_schemes",
+      "examples": [
+        {"text": "Government subsidies for farmers"},
+        {"text": "Schemes for sugarcane farmers in UP"},
+        {"text": "How to apply for agricultural loans?"},
+        {"text": "PM Kisan Samman Nidhi details"},
+        {"text": "Crop insurance schemes"},
+        {"text": "Minimum support price for sugarcane"},
+        {"text": "Government support for organic farming"},
+        {"text": "Subsidy for drip irrigation"},
+        {"text": "Kisan credit card benefits"},
+        {"text": "UP government schemes for farmers"},
+        {"text": "किसानों के लिए सरकारी योजनाएँ"},
+        {"text": "फसल बीमा कैसे करवाएं?"},
+        {"text": "गन्ने का न्यूनतम समर्थन मूल्य"},
+        {"text": "किसान क्रेडिट कार्ड के फायदे"}
+      ]
+    },
+    {
+      "intent": "weather_information",
+      "examples": [
+        {"text": "Weather forecast for farming"},
+        {"text": "When will monsoon arrive in UP?"},
+        {"text": "Best time to plant based on weather"},
+        {"text": "How to protect crops from extreme heat?"},
+        {"text": "Preparing for unseasonal rain"},
+        {"text": "Weather alerts for farmers"},
+        {"text": "Climate smart agriculture"},
+        {"text": "Drought resistant farming"},
+        {"text": "Protection from frost damage"},
+        {"text": "Weather patterns in Uttar Pradesh"},
+        {"text": "खेती के लिए मौसम का पूर्वानुमान"},
+        {"text": "मानसून कब आएगा?"},
+        {"text": "अत्यधिक गर्मी से फसलों की रक्षा कैसे करें?"},
+        {"text": "अकाल प्रतिरोधी खेती क्या है?"}
+      ]
+    },
+    {
+      "intent": "market_information",
+      "examples": [
+        {"text": "Current sugarcane price in UP"},
+        {"text": "Where to sell my produce?"},
+        {"text": "How to get better price for crops?"},
+        {"text": "Market trends for agricultural products"},
+        {"text": "Direct selling vs middlemen"},
+        {"text": "Export options for farmers"},
+        {"text": "Organic produce markets"},
+        {"text": "Value addition to increase profits"},
+        {"text": "Contract farming opportunities"},
+        {"text": "Digital marketing for farm produce"},
+        {"text": "गन्ने का वर्तमान मूल्य क्या है?"},
+        {"text": "अपनी उपज कहां बेचें?"},
+        {"text": "फसलों के लिए बेहतर मूल्य कैसे प्राप्त करें?"},
+        {"text": "कृषि उत्पादों के लिए बाजार रुझान"}
+      ]
+    }
+  ],
+  "entities": [
+    {
+      "entity": "crop_type",
+      "values": [
+        {
+          "value": "sugarcane",
+          "synonyms": ["गन्ना", "sugar cane", "cane", "गन्ने"]
+        },
+        {
+          "value": "rice",
+          "synonyms": ["चावल", "paddy", "धान"]
+        },
+        {
+          "value": "wheat",
+          "synonyms": ["गेहूं", "gehun"]
+        },
+        {
+          "value": "maize",
+          "synonyms": ["मक्का", "corn", "भुट्टा"]
+        },
+        {
+          "value": "pulses",
+          "synonyms": ["दाल", "lentils", "दलहन", "pulses"]
+        }
+      ]
+    },
+    {
+      "entity": "soil_type",
+      "values": [
+        {
+          "value": "clay",
+          "synonyms": ["मिट्टी", "heavy soil", "चिकनी मिट्टी"]
+        },
+        {
+          "value": "sandy",
+          "synonyms": ["बलुई", "light soil", "रेतीली मिट्टी"]
+        },
+        {
+          "value": "loam",
+          "synonyms": ["दोमट", "balanced soil", "दोमट मिट्टी"]
+        },
+        {
+          "value": "alluvial",
+          "synonyms": ["जलोढ़", "river soil", "जलोढ़ मिट्टी"]
+        }
+      ]
+    },
+    {
+      "entity": "disease_name",
+      "values": [
+        {
+          "value": "red_rot",
+          "synonyms": ["लाल सड़न", "red rot disease", "colletotrichum falcatum"]
+        },
+        {
+          "value": "smut",
+          "synonyms": ["कंडुआ", "whip smut", "ustilago scitaminea"]
+        },
+        {
+          "value": "leaf_scald",
+          "synonyms": ["पत्ता झुलसा", "leaf scorch", "xanthomonas albilineans"]
+        },
+        {
+          "value": "rust",
+          "synonyms": ["रतुआ", "brown rust", "orange rust", "puccinia"]
+        }
+      ]
+    },
+    {
+      "entity": "season",
+      "values": [
+        {
+          "value": "summer",
+          "synonyms": ["गर्मी", "hot season", "गर्मियों"]
+        },
+        {
+          "value": "winter",
+          "synonyms": ["सर्दी", "cold season", "सर्दियों"]
+        },
+        {
+          "value": "monsoon",
+          "synonyms": ["बरसात", "rainy season", "बारिश का मौसम"]
+        },
+        {
+          "value": "autumn",
+          "synonyms": ["पतझड़", "fall", "शरद ऋतु"]
+        }
+      ]
+    }
+  ],
+  "dialog_nodes": [
+    {
+      "dialog_node": "Welcome",
+      "conditions": "welcome",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hello! I am AgroBot, your agricultural assistant. How can I help you with farming information today?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      }
+    },
+    {
+      "dialog_node": "Crop_Recommendations",
+      "conditions": "#crop_recommendations",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "For clay soils in UP, I recommend growing sugarcane, rice, or wheat. Sugarcane grows well in heavy clay soils with good water retention."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      }
+    },
+    {
+      "dialog_node": "Disease_Identification",
+      "conditions": "#disease_identification",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Based on your description, it could be red rot disease. Red rot causes reddish discoloration inside the stem, yellowing of leaves, and wilting. Control by using disease-free seed material, treating setts with fungicides, and removing infected plants."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      }
+    }
+  ]
+} 
