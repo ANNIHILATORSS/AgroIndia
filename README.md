@@ -4,6 +4,12 @@
 
 # AgroIndia - AI-Driven Crop Yield & Weather Impact Prediction System
 
+## System Diagram
+
+![NISAR DC-DC Test Setup](image/1747761062778.jpeg)
+
+*Figure 1: AgroIndia*
+
 
 ## Demo Video:
 👉 [Watch the demo video here](https://youtu.be/rpJdWsRCqxM?si=ga3Vintgfdu8fuDz)
