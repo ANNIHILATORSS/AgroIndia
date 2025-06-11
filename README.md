@@ -5,10 +5,6 @@
 # AgroIndia - AI-Driven Crop Yield & Weather Impact Prediction System
 ![AgroIndia](/Media/Screenshot%202025-06-11%20031306.png)
 
-
-## System Diagram
-
-
 ## Demo Video:
 👉 [Watch the demo video here](https://youtu.be/rpJdWsRCqxM?si=ga3Vintgfdu8fuDz)
 
@@ -17,6 +13,14 @@
 A comprehensive platform designed to empower farmers with AI-powered yield predictions, disease detection, real-time weather insights, multilingual chatbot assistance, and personalized farming guidelines. This project integrates machine learning and accessible communication tools to support decision-making and enhance agricultural productivity.
 
 ---
+
+## Screenshots
+![AgroIndia](Media/Screenshot%202025-06-11%20024459.png)
+
+<p align="center">
+  <img src="Media/Screenshot%202025-06-11%20024524.png" alt="AgroS1" width="48%" />
+  <img src="Media/Screenshot%202025-06-11%20024618.png" alt="AgroS2" width="48%" />
+</p>
 
 ## 🧠 Team Data:
 
