@@ -35,9 +35,35 @@ A comprehensive platform designed to empower farmers with AI-powered yield predi
 * **Farming Guidelines**: Provides climate-sensitive farming practices tailored to user location.
 * **Ask Doubt Section**: Searchable Q\&A system for common queries, especially for sugarcane farming.
 * **Centralized Farmer Dashboard**: Visual interface combining yield data, disease alerts, and weather conditions.
-* **The Agro Bot **: AI Assistant provides farmers with personalized advice and insights by leveraging cutting-edge AI models.
+* **The Agro Bot**: AI Assistant provides farmers with personalized advice and insights by leveraging cutting-edge AI models.
 
 ---
+## 📂 Project Structure
+AgroIndia/
+├── public/
+├── src/
+├── venv/
+├── .gitignore
+├── FarmingGuidelinesProps/
+├── README.md
+├── Yield_prediction_AgriConnect.ipynb
+├── bun.lockb
+├── components.json
+├── eslint.config.js
+├── index.html
+├── package-lock.json
+├── package.json
+├── postcss.config.js
+├── server.ts
+├── leaf-disease-prediction.ipynb
+├── tailwind.config.ts
+├── tsconfig.app.json
+├── tsconfig.json
+├── tsconfig.node.json
+├── upload-training-data.js
+├── vite.config.ts
+├── watson-training-data.json
+├── watson-training-guide.md
 
 ## 📂 Datasets Used
 
