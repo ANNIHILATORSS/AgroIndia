@@ -29,7 +29,7 @@ A comprehensive platform designed to empower farmers with AI-powered yield predi
 ---
 
 ## Screenshots
-![AgroIndia](Media/Screenshot 2025-06-11 024228.png)
+![AgroIndia](https://github.com/ANNIHILATORSS/AgroIndia/blob/main/Media/Screenshot%202025-06-11%20024228.png)
 
 <p align="center">
   <img src="Media/Screenshot%202025-06-11%20024524.png" alt="AgroS1" width="48%" />
