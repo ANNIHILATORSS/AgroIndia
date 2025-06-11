@@ -6,7 +6,7 @@
 
 ## System Diagram
 
-![NISAR DC-DC Test Setup](image/1747761062778.jpeg)
+![AgroIndia](/Media/Screenshot%202025-06-11%20031306.png)
 
 *Figure 1: AgroIndia*
 
