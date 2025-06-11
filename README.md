@@ -48,7 +48,7 @@ A comprehensive platform designed to empower farmers with AI-powered yield predi
 
 ## 🚀 Features
 
-* **Yield Prediction**: Uses historical agricultural and weather data to forecast sugarcane production.
+* **Yield Prediction**: Uses historical agricultural and weather data to forecast production.
 * **Disease Detection**: Image-based detection of common diseases using machine learning.
 * **Weather & Rainfall Data**: Fetches location-based weather data using APIs for agricultural planning.
 * **WhatsApp Connectivity**: Farmers can ask questions via WhatsApp in voice/text format.
