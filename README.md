@@ -7,14 +7,14 @@ A system that delivers timely insights and actionable recommendations, enabling 
 
 **Prerequisites**
 Software Requirements (to be installed on the system):
-*Python environment
-*Notebook, PyCharm, or any other equivalent tool to write code
+* Python environment
+* Notebook, PyCharm, or any other equivalent tool to write code
 What skills should you have:
-*Python Programming
-*Machine Learning
-*LangChain or any framework to help work with LLMs
-*Understanding of LLMs (Large Language Models)
-*Knowledge of the RAG (Retrieval-Augmented Generation) pattern
+* Python Programming
+* Machine Learning
+* LangChain or any framework to help work with LLMs
+* Understanding of LLMs (Large Language Models)
+* Knowledge of the RAG (Retrieval-Augmented Generation) pattern
 
 # AgroIndia - AI-Driven Crop Yield & Weather Impact Prediction System
 ![AgroIndia](/Media/Screenshot%202025-06-11%20031306.png)
