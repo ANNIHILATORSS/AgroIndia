@@ -103,7 +103,7 @@ A comprehensive platform designed to empower farmers with AI-powered yield predi
 
 * **Frontend**: HTML/CSS, React, Tailwind CSS 
 * **Backend**: Flask, Python
-* **Models**: Watson.ai
+* **Models**: Watson.ai,Google Gemma AI
 * **Machine Learning**: Scikit-learn, TensorFlow (Prediction and classification models)
 * **APIs**: OpenWeatherMap, Twilio (for WhatsApp), Watson.ai Assistant
 
