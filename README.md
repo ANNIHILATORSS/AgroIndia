@@ -1,6 +1,20 @@
 # Team Name: ANNIHILATORS
 
 **Problem Statement Name:** Predicting Crop Yields & Weather Impact for Farmers
+The objective is to implement an AI-driven Crop Yield & Weather Impact Prediction System for Uttar Pradesh to forecast agricultural output, identify drought/flood risks, and provide early warnings to farmers. Since agriculture plays a crucial role in the state's economy, unpredictable weather patterns and natural disasters such as floods and droughts can severely impact yields and livelihoods.
+
+A system that delivers timely insights and actionable recommendations, enabling farmers to make informed decisions and take preventive measures to
+
+**Prerequisites**
+Software Requirements (to be installed on the system):
+*Python environment
+*Notebook, PyCharm, or any other equivalent tool to write code
+What skills should you have:
+*Python Programming
+*Machine Learning
+*LangChain or any framework to help work with LLMs
+*Understanding of LLMs (Large Language Models)
+*Knowledge of the RAG (Retrieval-Augmented Generation) pattern
 
 # AgroIndia - AI-Driven Crop Yield & Weather Impact Prediction System
 ![AgroIndia](/Media/Screenshot%202025-06-11%20031306.png)
