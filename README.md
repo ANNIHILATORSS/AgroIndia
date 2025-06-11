@@ -29,12 +29,13 @@ A comprehensive platform designed to empower farmers with AI-powered yield predi
 * **Yield Prediction**: Uses historical agricultural and weather data to forecast sugarcane production.
 * **Disease Detection**: Image-based detection of common diseases using machine learning.
 * **Weather & Rainfall Data**: Fetches location-based weather data using APIs for agricultural planning.
-* **WhatsApp Chatbot**: Farmers can ask questions via WhatsApp in voice/text format.
+* **WhatsApp Connectivity**: Farmers can ask questions via WhatsApp in voice/text format.
 * **Voice Input**: Supports local language voice queries for ease of use.
 * **Multi-Language Support**: Offers language selection (e.g., Hindi/English) to enhance accessibility.
 * **Farming Guidelines**: Provides climate-sensitive farming practices tailored to user location.
 * **Ask Doubt Section**: Searchable Q\&A system for common queries, especially for sugarcane farming.
 * **Centralized Farmer Dashboard**: Visual interface combining yield data, disease alerts, and weather conditions.
+* **The Agro Bot **: AI Assistant provides farmers with personalized advice and insights by leveraging cutting-edge AI models.
 
 ---
 
@@ -42,7 +43,7 @@ A comprehensive platform designed to empower farmers with AI-powered yield predi
 
 * Yield Dataset (State/Crop-wise historical data)
 * Weather and Rainfall Dataset (Government and public API sources)
-* Sugarcane Disease Image Dataset (Labeled image data of sugarcane plant diseases)
+* Disease Image Dataset (Labeled image data of plant diseases)
 * Farmer interaction logs (Static/mock data for chatbot and UI)
 
 ---
@@ -51,9 +52,9 @@ A comprehensive platform designed to empower farmers with AI-powered yield predi
 
 * **Frontend**: HTML/CSS, React, Tailwind CSS 
 * **Backend**: Flask, Python
-* **Models**: Watson.ai, Kaggle
+* **Models**: Watson.ai
 * **Machine Learning**: Scikit-learn, TensorFlow (Prediction and classification models)
-* **APIs**: OpenWeatherMap, Twilio (for WhatsApp)
+* **APIs**: OpenWeatherMap, Twilio (for WhatsApp), Watson.ai Assistant
 
 ---
 
@@ -63,6 +64,8 @@ A comprehensive platform designed to empower farmers with AI-powered yield predi
 2. Backend processes query.
 3. API fetches or serves result to frontend.
 4. Result shown via WhatsApp bot or dashboard UI.
+5. AI Assistant provides farmers with personalized advice and insights by leveraging cutting-edge AI models.
+
 
 ---
 
@@ -73,6 +76,8 @@ A comprehensive platform designed to empower farmers with AI-powered yield predi
 * Disease alerts and mitigation strategies.
 * Personalized, weather-based farming tips.
 * Multilingual support and voice interaction to ensure inclusivity.
+* AI Assistant provides farmers with personalized advice and insights by leveraging cutting-edge AI models.
+
 
 ---
 
