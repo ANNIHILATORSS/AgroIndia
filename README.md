@@ -39,6 +39,7 @@ A comprehensive platform designed to empower farmers with AI-powered yield predi
 
 ---
 ## 📂 Project Structure
+
 AgroIndia/
 ├── public/
 ├── src/
