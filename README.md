@@ -40,7 +40,11 @@ A comprehensive platform designed to empower farmers with AI-powered yield predi
 ---
 ## 📂 Project Structure
 
-AgroIndia/
+<pre><code>npm run dev</code></pre>
+
+<html>
+<h2>Project Structure</h2>
+<pre><code>AgroIndia/
 ├── public/
 ├── src/
 ├── venv/
@@ -64,7 +68,11 @@ AgroIndia/
 ├── upload-training-data.js
 ├── vite.config.ts
 ├── watson-training-data.json
-├── watson-training-guide.md
+├── watson-training-guide.md</code></pre>
+
+<h2>License</h2>
+<p>This project is licensed under the MIT License.</p>
+</html>
 
 ## 📂 Datasets Used
 
