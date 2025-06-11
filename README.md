@@ -33,7 +33,7 @@ A comprehensive platform designed to empower farmers with AI-powered yield predi
 
 <p align="center">
   <img src="Media/Screenshot%202025-06-11%20024524.png" alt="AgroS1" width="48%" />
-  <img src="Media/Screenshot 2025-06-11 024618.png" alt="AgroS2" width="48%" />
+  <img src="Media/WhatsApp Image 2025-06-11 at 08.09.47_e4fe6652.jpg" alt="AgroS2" width="48%" />
 </p>
 
 ## 🧠 Team Data:
